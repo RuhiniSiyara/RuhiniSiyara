@@ -5,7 +5,6 @@
 - 👣 I'm trying my best to develop my skills each second by second⏳
 - 📫 How to reach me ruhinisiyara@gmail.com and @LinkedIn
 - ⚡ Fun fact: I talk too much,even it's not a human,sometimes with codes too 😂
-![Banner](Banner.jpg)
 <!---
 RuhiniSiyara/RuhiniSiyara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
