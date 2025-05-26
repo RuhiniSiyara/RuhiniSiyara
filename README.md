@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @RuhiniSiyara
 - 🌱 I’m currently learning DevOps, Linux,Git,Kubernetes,cloud technologies with AI 
 - 💬 Ask me about *Python,html,css,sql,java,Shell scripting,Git and love tackling challenges*
-- 🎓 I'm an ~after A/L student and studying at ICET- certified developer IT diploma~ 👩‍🎓
+- 🎓 I'm an **after A/L student and studying at ICET- certified developer IT diploma** 👩‍🎓
 - 👣 I'm trying my best to develop my skills each second by second⏳
 - 📫 How to reach me ruhinisiyara@gmail.com and @LinkedIn
 - ⚡ Fun fact: I talk too much,even it's not a human,sometimes with codes too 😂
