@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ruhini Siyara😎👩‍💻</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruhinisiyara/ruhinisiyara/main/banner.jpg" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ruhinisiyara/ruhinisiyara/main/banner.png" alt="banner" width="100%" />
 </p>
 
 ---
