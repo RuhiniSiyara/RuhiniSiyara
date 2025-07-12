@@ -6,12 +6,13 @@
 
 ---
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&color=36BCF7&width=1500&lines=DevOps+Engineer+in+Progress+🚀;Full-Stack+Engineer+Trainee+Student+👩‍💻;Undergraduate+%40+UCSC+BIT+🎓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&color=36BCF7&width=1500&lines=Intern+DevOps+Engineer+%40+SLITT+👩‍💻;Talented+DevOps+Engineer+in+Progress+🚀;Full-Stack+Engineer+Trainee+Student+✒️;Undergraduate+%40+UCSC+BIT+🎓" alt="Typing SVG" />
 </h3>
 
 ### ✨ About Me
 
-- 🎓 G.C.E. A/L (Maths +ICT Stream) Candidate – 2025  
+- 🎓 G.C.E. A/L (Maths +ICT Stream) Candidate – 2025
+- 😎 DevOps Engineer Intern @SLITT
 - 🧾 Passed **FIT** | Pursuing **BIT** @ University of Colombo (External Degree)  
 - 👩‍💻 Trainee Full-Stack Developer @ **ICET Campus Certified Developer Program**  
 - 🌱 Learning: **DevOps, Linux, Git, Kubernetes, Cloud, AI Tools**  
