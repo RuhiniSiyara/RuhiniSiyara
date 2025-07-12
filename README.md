@@ -67,7 +67,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruhinisiyara&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=ruhinisiyara&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ruhinisiyara&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhinisiyara&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
