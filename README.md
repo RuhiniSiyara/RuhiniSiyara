@@ -19,7 +19,7 @@
 - 💬 Ask me about: **Web dev, scripting, cloud infra, or coding chaos**  
 - 👣 Growing byte by byte. Learning second by second.  
 - 📫 Mail me: **ruhinisiyara@gmail.com** | [LinkedIn](https://www.linkedin.com/in/ruhini-siyara)  
-- ⚡ Fun fact: I debug like I’m solving a crime scene 🔍
+- ⚡ Fun fact: I debug like I’m solving a crime scene 🤪🔍
 
 ---
 
