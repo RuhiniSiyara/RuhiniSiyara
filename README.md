@@ -56,10 +56,10 @@
 
 | Certification | Status |
 |---------------|--------|
-| 🟦 KCNA - Kubernetes & Cloud Native Associate | 📍 Purchased Exam & Preparing for the Exam  (2025) |
+| 🟦 KCNA - Kubernetes & Cloud Native Associate | 📍 Purchased Exam & Preparing for the Exam  (2026) |
 | 🟩 AWS - AWS Certified Cloud Practitioner | 📍 Preparing for the Exam (2026) |
 | 🟨 Azure - AZ-900 | 📍Preparing for the Exam (2026) |
-| 🟥 KodeKloud - DevOps Engineer certification course | 📍 60% Done % 40% In Progress (2025) |
+| 🟥 KodeKloud - DevOps Engineer certification course | 📍 20% Done % 80% In Progress (2026) |
 
 ---
 
