@@ -10,12 +10,10 @@
 
 ### ✨ About Me
 
-- 🎓 G.C.E. A/L (Maths +ICT Stream) Candidate – 2025
-- 😎 DevOps Engineer Intern @SLITT
-- 🧾 Passed **FIT** | Pursuing **BIT** @ University of Colombo (External Degree)  
+- 🎓 Pursuing **Bachelor's of Information Technology Degree** @ University of Colombo
 - 👩‍💻 Trainee Full-Stack Developer @ **ICET Campus Certified Developer Program**  
 - 🌱 Learning: **DevOps, Linux, Git, Kubernetes, Cloud, AI Tools**  
-- 💬 Ask me about: **Web dev, scripting, cloud infra, or coding chaos**  
+- 💬 Ask me about: **Web dev, scripting, cloud & K8s, or coding chaos**  
 - 👣 Growing byte by byte. Learning second by second.  
 - 📫 Mail me: **ruhinisiyara@gmail.com** | [LinkedIn](https://www.linkedin.com/in/ruhini-siyara)  
 - ⚡ Fun fact: I debug like I’m solving a crime scene 😂🔍
