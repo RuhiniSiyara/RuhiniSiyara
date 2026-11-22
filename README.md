@@ -75,7 +75,7 @@
   <img src="https://komarev.com/ghpvc/?username=ruhinisiyara&style=flat-square&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/badge/DevOps-In_Progress-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/BIT%20@%20UCSC-Undergraduate-29b6f6?style=flat-square" />
-  <img src="https://img.shields.io/badge/FIT-Passed-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Management-LPEC-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Linux~%7C~Cloud~%7C~K8s-Evolving-orange?style=flat-square" />
 </p>
 
