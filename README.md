@@ -5,7 +5,7 @@
 
 ---
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&color=36BCF7&width=1500&lines=DevOps+In+Progress+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;+Talented+and+Learning+in+Marketing+and+Management+%F0%9F%9A%80;Passionate+about+Full+Stack+Development+%F0%9F%96%8B%EF%B8%8F;Undergraduate+%40+UCSC+BIT+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&color=36BCF7&width=1000&lines=DevOps+In+Progress+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Talented+and+Learning+in+Marketing+and+Management+%F0%9F%9A%80;Passionate+about+Full+Stack+Development+%F0%9F%96%8B%EF%B8%8F;Undergraduate+%40+UCSC+BIT+%F0%9F%8E%93" alt="Typing SVG" />
 </h3>
 
 ### ✨ About Me
