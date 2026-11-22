@@ -21,31 +21,35 @@
 
 ### 🛠️ Tech Stack & Tools
 
-#### 💻 Frontend
+#### 🌐 Full-Stack & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,flutter" />
 </p>
 
-#### 🧠 Backend
+#### 🎨 Frontend & UI/UX
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,figma" />
 </p>
 
-#### 🌐 MERN Stack
+#### 🧠 Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,py,mysql,postgres,mongodb,prisma" />
 </p>
 
-#### 🧰 DevOps + Tools
+#### ☁️ Cloud & AI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase" />
+</p>
+
+#### 🧰 DevOps & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github,vscode,postman,jenkins,nginx" />
 </p>
 
-#### 🎨 3D & Creative
+#### 📊 Business Analysis & Management
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,threejs,unity,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=notion,figma,mysql,postgres,py,r" />
 </p>
-
 ---
 
 ### 🚀 DevOps Certification Trail (Goal 🎯)
