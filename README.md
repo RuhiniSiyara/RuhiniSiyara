@@ -5,15 +5,15 @@
 
 ---
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&color=36BCF7&width=1500&lines=Intern+DevOps+Engineer+%40+SLITT+👩‍💻;Talented+DevOps+Engineer+in+Progress+🚀;Full-Stack+Engineer+Trainee+Student+✒️;Undergraduate+%40+UCSC+BIT+🎓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&color=36BCF7&width=1500&lines=Intern+DevOps+Engineer+%40+SLITT+👩‍💻;Talented+in Marketing+&Management +in+Progress+🚀;Full-Stack+Engineer+Trainee+Student+✒️;Undergraduate+%40+UCSC+BIT+🎓" alt="Typing SVG" />
 </h3>
 
 ### ✨ About Me
 
 - 🎓 Pursuing **Bachelor's of Information Technology Degree** @ University of Colombo
 - 👩‍💻 Trainee Full-Stack Developer @ **ICET Campus Certified Developer Program**  
-- 🌱 Learning: **DevOps, Linux, Git, Kubernetes, Cloud, AI Tools**  
-- 💬 Ask me about: **Web dev, scripting, cloud & K8s, or coding chaos**  
+- 🌱 Learning: **DevOps, Cloud, AI Tools & Business Management with Marketing**  
+- 💬 Ask me about: **Web dev, cloud & K8s, or Marketing management**  
 - 👣 Growing byte by byte. Learning second by second.  
 - 📫 Mail me: **ruhinisiyara@gmail.com** | [LinkedIn](https://www.linkedin.com/in/ruhini-siyara)  
 - ⚡ Fun fact: I debug like I’m solving a crime scene 😂🔍
@@ -53,9 +53,9 @@
 
 | Certification | Status |
 |---------------|--------|
-| 🟦 KCNA - Kubernetes & Cloud Native Associate | 📍 Purchased Exam & Preparing for the Exam  (2026) |
-| 🟩 AWS - AWS Certified Cloud Practitioner | 📍 Preparing for the Exam (2026) |
-| 🟥 KodeKloud - DevOps Engineer certification course | 📍 50% Done % 50% In Progress (2026) |
+| 🟦 FinOps Certified Practitioner | 📍 Purchased Exam & Preparing for the Exam  (2027) |
+| 🟩 AWS - AWS Certified Cloud Practitioner | 📍 Preparing for the Exam (2027) |
+| 🟥 KodeKloud - DevOps Engineer certification course | 📍 In Progress (2027) |
 
 ---
 
