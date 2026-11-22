@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./Banner.png" alt="My Banner" />
-
+ <img width="4688" height="2344" alt="ruhini_siyara" src="https://github.com/user-attachments/assets/95fc3eed-8d6e-43ea-a4ba-5f1a7d76f17c" />
 </p>
 
 ---
