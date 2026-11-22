@@ -52,13 +52,16 @@
 </p>
 ---
 
-### 🚀 DevOps Certification Trail (Goal 🎯)
+### 🚀 Certification & Academic Trail (Goal 🎯)
 
-| Certification | Status |
-|---------------|--------|
-| 🟦 FinOps Certified Practitioner | 📍 Purchased Exam & Preparing for the Exam  (2027) |
-| 🟩 AWS - AWS Certified Cloud Practitioner | 📍 Preparing for the Exam (2027) |
-| 🟥 KodeKloud - DevOps Engineer certification course | 📍 In Progress (2027) |
+| Certification / Program | Status |
+|-------------------------|--------|
+| ⬜ AWS Certified Cloud Practitioner | 📍 Learning (Exam Planned for 2027) |
+| ⬜ FinOps Certified Practitioner | 📍 Partially Learning (Planned for 2027) |
+| ⬜ Diploma in Business Management (LPEC) | 📍 75% Completed (Expected May 2027) |
+| ⬜ Professional Diploma in Software Engineering (iCET) | 📍 In Progress (Expected August 2027) |
+| ⬜ DevOps Engineer Learning Path (KodeKloud) | 📍 In Progress |
+| ⬜ Business Analysis Specialization (Coursera) | 📍 In Progress |
 
 ---
 
