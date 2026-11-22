@@ -5,7 +5,7 @@
 
 ---
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&color=36BCF7&width=1500&lines=Intern+DevOps+Engineer+%40+SLITT+👩‍💻;Talented+in Marketing+&Management +in+Progress+🚀;Full-Stack+Engineer+Trainee+Student+✒️;Undergraduate+%40+UCSC+BIT+🎓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&color=36BCF7&width=1500&lines=Intern+DevOps+Engineer+%40+SLITT+👩‍💻;Talented+in Marketing+Management +in+Progress+🚀;Full-Stack+Engineer+Trainee+Student+✒️;Undergraduate+%40+UCSC+BIT+🎓" alt="Typing SVG" />
 </h3>
 
 ### ✨ About Me
